@@ -1,85 +1,109 @@
-````markdown
 # S. Jahnavi — Portfolio
 
-A modern, responsive personal portfolio website built with React and Vite to showcase my projects, technical skills, problem-solving experience, and contact information.
+A modern, responsive personal portfolio website built with **React and Vite** to showcase my projects, technical skills, problem-solving experience, and professional profile.
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](YOUR_VERCEL_URL)
+**[View My Portfolio](https://portfolio-jahnavisutrayee-4419s-projects.vercel.app/)**
 
-## 👩‍💻 About
+## 👩‍💻 About Me
 
-I am a Computer Science undergraduate interested in software development, problem solving, databases, and Artificial Intelligence.
+I am a Computer Science undergraduate with a strong foundation in **Java, C, SQL, Data Structures & Algorithms, and core Computer Science concepts**.
 
-I enjoy building practical applications and continuously improving my programming and Data Structures & Algorithms skills.
+I enjoy building practical software applications, solving programming problems, and exploring **Machine Learning, Deep Learning, and Generative AI**.
 
-## 🛠️ Technologies
+## 🛠️ Skills
 
-- Java
-- C
-- SQL
-- HTML
-- CSS
-- React
-- Vite
-- ServiceNow
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Machine Learning
-- Deep Learning
-- Generative AI
+### Programming
 
-## 🚀 Featured Projects
+* Java
+* C
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Computer Networks
+* Operating Systems
+
+### Database
+
+* SQL
+
+### AI / ML
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+
+### Platforms & Tools
+
+* ServiceNow
+* Git
+* GitHub
+
+## 🚀 Projects
 
 ### 1. AI Image Generator
 
-A Java-based AI image generation application that accepts user prompts and integrates with the Hugging Face FLUX text-to-image API using Java HttpClient.
+A Java-based AI image generation application that accepts user prompts and integrates with the **Hugging Face FLUX text-to-image API** using Java `HttpClient`.
 
 **Technologies:** Java, HTML, CSS, REST API, FLUX
 
-[View Project](https://github.com/Jahnavi448/AI-Image-Generator-Java)
+**Repository:**
+[AI Image Generator — GitHub](https://github.com/Jahnavi448/AI-Image-Generator-Java)
+
+---
 
 ### 2. ServiceNow Leave Management System
 
-A ServiceNow-based leave management application with manager-based approval workflows, automated status updates, notifications, reports, and dashboards.
+A ServiceNow-based leave management application with **manager-based approval workflows, automated status updates, notifications, reports, and dashboards**.
 
 **Technologies:** ServiceNow, Flow Designer, UI Policies, Workflows
 
-[View Project](https://github.com/Jahnavi448/Leave-Management-System-ServiceNow)
+**Repository:**
+[Leave Management System — GitHub](https://github.com/Jahnavi448/Leave-Management-System-ServiceNow)
+
+---
 
 ### 3. Smart URL Shortener
 
-A Java-based URL shortening and analytics application supporting custom aliases, validation, duplicate detection, redirection, and click tracking for 1000+ URL mappings.
+A Java-based URL shortening and analytics application supporting **custom aliases, validation, duplicate detection, redirection, and click tracking** for 1000+ URL mappings.
 
 **Technologies:** Java, HTML, CSS, HashMap, OOP
 
-[View Project](https://github.com/Jahnavi448/smart-url-shortener)
+**Repository:**
+[Smart URL Shortener — GitHub](https://github.com/Jahnavi448/smart-url-shortener)
+
+---
 
 ### 4. Expense Tracker
 
-A Java-based expense management application for recording, categorizing, filtering, and reporting daily expenses while managing 500+ records using Java Collections and object-oriented programming.
+A Java-based expense management application for **recording, categorizing, filtering, and reporting daily expenses**, managing 500+ records using Java Collections and object-oriented programming.
 
 **Technologies:** Java, OOP, Collections
 
-[View Project](https://github.com/Jahnavi448/expense-tracker)
+**Repository:**
+[Expense Tracker — GitHub](https://github.com/Jahnavi448/expense-tracker)
 
 ## 📊 Problem Solving
 
-### 440+ LeetCode Problems
+### 440+ LeetCode Problems Solved
 
-I regularly practice Data Structures and Algorithms to improve algorithmic thinking and problem-solving skills.
+I regularly practice **Data Structures & Algorithms** to improve algorithmic thinking, coding ability, and problem-solving skills.
 
-## 📫 Contact
+## ⚙️ Portfolio Tech Stack
 
-**Email:** jahnavisutrayee@gmail.com
+This portfolio website was built using:
 
-**Phone:** +91 7780791952
+* React
+* Vite
+* JavaScript
+* CSS
+* Lucide React
 
-**GitHub:** https://github.com/Jahnavi448
-
-**LinkedIn:** https://www.linkedin.com/in/s-jahnavi-b058432a3/
-
-## 📌 Project Structure
+## 📁 Project Structure
 
 ```text
 my-portfolio/
@@ -90,8 +114,9 @@ my-portfolio/
 │   └── main.jsx
 ├── index.html
 ├── package.json
+├── package-lock.json
 └── vite.config.js
-````
+```
 
 ## 💻 Run Locally
 
@@ -101,7 +126,7 @@ Clone the repository:
 git clone https://github.com/Jahnavi448/-portfolio.git
 ```
 
-Move into the project directory:
+Navigate into the project:
 
 ```bash
 cd -portfolio
@@ -119,11 +144,25 @@ Start the development server:
 npm run dev
 ```
 
-Open the local URL shown by Vite in your browser.
+Open the local URL displayed by Vite in your browser.
+
+## 📫 Contact
+
+**Email:** [jahnavisutrayee@gmail.com](mailto:jahnavisutrayee@gmail.com)
+
+**Phone:** +91 7780791952
+
+**GitHub:** [Jahnavi448](https://github.com/Jahnavi448)
+
+**LinkedIn:** [S. Jahnavi](https://www.linkedin.com/in/s-jahnavi-b058432a3/)
+
+## 🌍 Deployment
+
+The portfolio is deployed using **Vercel** and automatically connected to the GitHub repository.
+
+**Live Website:**
+https://portfolio-jahnavisutrayee-4419s-projects.vercel.app/
 
 ## 📄 License
 
-This project is created for personal portfolio and demonstration purposes.
-
-```
-```
+This repository is created for personal portfolio and project showcase purposes.
